@@ -1,8 +1,8 @@
-# Phase 3 Project
+# Phase 4 Project
 
 ## Preface:
 
-Link to Presentation: 
+Link to Presentation: https://github.com/justingrisanti/dsc-phase-4-project/blob/main/Module%204%20Final%20Project%20Presentation.pdf
 
 Link to Data: https://github.com/justingrisanti/dsc-phase-4-project/tree/main/data/chest_xray
 
@@ -10,7 +10,7 @@ Link to Visualization: https://github.com/justingrisanti/dsc-phase-4-project/tre
 
 Link to Jupyter Notebook: https://github.com/justingrisanti/dsc-phase-4-project/blob/main/Module%204%20Final%20Project.ipynb
 
-Link to Blog Post: 
+Link to Blog Post: https://justingrisanti.github.io/analyzing_chest_x-rays_using_machine_learning
 
 ## Step 1: Business Understanding
 
